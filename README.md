@@ -15,3 +15,5 @@ The source files for the omics and taxonomic data can be found in the [analysis_
 The code (and a step-by-step guide) that was used to reforumlate the metaGOflow outputs can be found in [code_release_002](https://github.com/emo-bon/code_release_002).
 
 The samples that are included in this batch can be found [here](https://github.com/emo-bon/sequencing-logistics-crate/blob/main/shipment/batch-002/ena-accession-numbers-batch-002.csv).
+
+The preparation of these data files is part of the Task 3.1 of the [DTO-BioFlow project](https://dto-bioflow.eu). 
