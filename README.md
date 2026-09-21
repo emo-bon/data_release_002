@@ -14,6 +14,6 @@ The individual files that when combined, create the DwCA files that we will subm
 
 The source files for the omics and taxonomic data can be found in the [analysis_release_002](https://github.com/emo-bon/analysis-results-cluster-02-crate) repository.
 
-The code (and a step-by-step guide) that was used to reforumlate the metaGOflow outputs can be found in code_release_002.
+The code (and a step-by-step guide) that was used to reforumlate the metaGOflow outputs can be found in [code_release_002](https://github.com/emo-bon/code_release_002).
 
 The samples that are included in this batch can be found [here](https://github.com/emo-bon/sequencing-logistics-crate/blob/main/shipment/batch-002/ena-accession-numbers-batch-002.csv).
