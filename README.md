@@ -1,5 +1,4 @@
 # data_release_002
-Taxonomic occurrences of the SSU and LSU marker genes from the 2nd EMO BON sequencing batch, plus sampling event metadata and functional gene abundances
 
 
 These are the 2nd set of data files to be submitted to (Eur)OBIS: taxonomic occurrences the SSU and LSU marker genes (combined), sampling event metadata, and functional gene abundances for the events of EMO BON's 2nd sequencing batch. This includes:
